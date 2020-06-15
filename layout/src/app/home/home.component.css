@@ -1,0 +1,20 @@
+header {
+
+  padding: 1em 0;
+
+}
+
+nav {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+}
+
+li {
+  padding: 1em;
+  
+}
